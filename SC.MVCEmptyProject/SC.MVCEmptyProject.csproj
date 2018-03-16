@@ -122,49 +122,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\ConnectionStrings.config" />
-    <Content Include="App_Config\Sitecore.config" />
-    <Content Include="App_Config\Prefetch\Common.config" />
-    <Content Include="App_Config\Prefetch\Core.config" />
-    <Content Include="App_Config\Prefetch\Master.config" />
-    <Content Include="App_Config\Prefetch\Webdb.config" />
-    <Content Include="App_Config\Commands.config" />
-    <Content Include="App_Config\CommerceServer.Core.config" />
-    <Content Include="App_Config\CommerceServer.Core.config.example" />
-    <Content Include="App_Config\ConnectionStringsOracle.config" />
-    <Content Include="App_Config\FieldTypes.config" />
-    <Content Include="App_Config\LanguageDefinitions.config" />
-    <Content Include="App_Config\Icons.config" />
-    <Content Include="App_Config\MimeTypes.config" />
-    <Content Include="App_Config\Portraits.config" />
-    <Content Include="App_Config\Prototypes.config" />
-    <Content Include="App_Config\Sitecore.config.Oracle" />
-    <Content Include="App_Config\XamlSharp.config" />
-    <Content Include="App_Config\Include\Rainbow.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.zSharedSecret.config.example" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.PowerShell.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Dilithium.config.example" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Deployed.config.disabled" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
     <None Include="packages.config" />
     <Content Include="Views\Custom\vp.cshtml" />
     <Content Include="Views\Web.config" />
-    <Content Include="Web.config" />
     <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
-    <None Include="Web.Debug.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </None>
-    <None Include="Web.Release.config">
-      <DependentUpon>Web.config</DependentUpon>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
