@@ -15,7 +15,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="bin\*.dll" target="bin" />
+    <file src="bin\SC.MVCEmptyProject.dll" target="bin" />
     <file src="Views\**\*" target="Views" />
    </files>
 </package>
