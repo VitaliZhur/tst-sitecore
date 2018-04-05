@@ -18,5 +18,6 @@
     <file src="bin\*.dll" target="bin" />
     <file src="Views\**\*" target="Views" />
 	<file src="App_Config\**\*.config" target="App_Config" />
+    <file src="App_Config\**\*.example" target="App_Config" />
   </files>
 </package>
