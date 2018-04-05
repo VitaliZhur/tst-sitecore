@@ -1,0 +1,149 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>Module 3 - Search - Package</PackageName>
+      <Author />
+      <Version />
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/master/sitecore/content/{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/{472C188C-3A7D-4048-9900-8D94175719A3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 10/{BECFB705-1A40-4394-958B-D3F864E4BF3D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 11/{840D60B8-8848-4509-9290-A811A9A5D37D}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 12/{5BE52224-2F24-491A-B8BF-E681253A77E3}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 13/{D54FE915-29FD-4F79-AB52-CAE83D843B32}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 14/{81DA08F1-40CB-4665-AC38-234E3309DC43}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 15/{0EAA31D0-ADC5-47E6-A01A-1C85F794A64F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 16/{961C7750-9B1E-4669-BE73-C6AA23522821}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 17/{60C52546-1BE8-46B1-A802-A9B38C5D8829}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 18/{C2BB268A-BAE6-494F-8A38-538563BD7322}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 19/{C3D244E6-C339-4BB1-BC64-DA072AA65E59}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 2/{308DFE7C-6DA4-4C4B-8BBE-0E691D0F2E47}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 20/{2E726016-E95C-4110-9B9E-8AD1878A6ADB}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 21/{1ADE5F4C-CF6F-414F-9BB6-5AB3240C05E5}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 3/{B9CE52C4-2968-42DD-8373-7C7AB07851A2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 4/{74C4AACD-C963-44AE-B079-44A63D36EC0B}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 5/{0230C4C6-C434-4E36-B9E4-3257A30E66DE}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 6/{8CF169A7-F9B9-4189-8ABF-43331F157B0E}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 7/{6DA1A651-A118-4C58-BA92-E3EFB6F6A983}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 8/{562A6654-2977-452E-B348-524C778B24A2}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page 9/{E6B05872-41CF-4BC6-BECB-CDC4C337BDC8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Catalog/Product Page/{8F35357A-E398-4DC2-BCC9-113AF3C26D58}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Fields Demo/{EBCBE0ED-89AA-47DC-BD88-991CD36132EA}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Media Demo/{E0A15B4C-13B8-40F2-97E8-BBF108E9FEE8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Home/Search/{C51B7E53-DD6C-441D-9BCA-F4E5D5C939FE}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/{5A6197D7-0086-4517-8FC9-0EABC9AA5059}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/{1F9FA83B-3ED6-48D1-967D-32CA2F260B49}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/{1FA64F2A-6833-41CD-B1E1-ECFF9D05C5E8}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Colour/{F3F6372F-C8CE-4C55-A63A-0627E5CDD721}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Colour/Black/{26649C6C-4AD7-48B4-AE78-437A891DBCA7}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Colour/Green/{720A75AD-3B64-4CE7-9A12-F807DE4D5403}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Colour/White/{169887C9-7756-449A-A754-6C5DAF8EE7D9}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Type/{A344D267-6F8F-49A7-9D77-70ED0023D26C}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Type/BMX/{61DABD14-459A-47DA-81D7-A2993D9C4322}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Type/Hybrid/{14902BF2-9FA0-47B2-9109-F70883F6F105}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Type/Mountain/{31B93819-2873-4B00-BAC9-DBBD41C5D75F}/invariant/0</x-item>
+        <x-item>/master/sitecore/content/Local Storage/Products/Tags/Type/Road/{02F680B7-60B8-4090-95D0-EE58AEA66A5F}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Layouts/Main Layout/{8F78985F-7F80-49F9-B1CD-0E6EAAD654B7}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Module3/{D935094C-9714-44E2-9443-6B45A6F91B8A}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Module3/Fields Demo/{E044C00F-063E-44BD-91B4-8FCCDCBA1D9A}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Module3/Media Demo/{DD7FC7FB-FA34-430C-AB89-9E6D2DEC009E}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Module3/Product Catalog Action/{FD46A552-9C76-456F-9343-2CE4CB161993}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Module3/Product Catalog/{8678E1BB-4E67-4863-ACC4-0366D7F55103}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Module3/Product Page/{F04A4FEA-4F07-4007-81CA-8E08A5259186}/invariant/0</x-item>
+        <x-item>/master/sitecore/layout/Renderings/Module3/Search Page/{9C2AC1AF-3310-4FA6-8950-A31AB83613D2}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/{B243A79C-14CC-4B64-B73C-757D41403F53}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Documents/{E7C3D8BF-8EAE-41AA-95BB-3F0F8A10FAC9}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Documents/Word Document/{EC9191D2-A397-4BEF-B8F1-FD542B2E019D}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Images/{E34BB872-D1AD-4BD0-A844-89CD02A3F709}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Images/Analytics/{527F7417-D81A-48D0-B2E1-DF50747F4F2D}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Images/Banners/{CC343121-3575-4EF5-A33A-F22017AE869D}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Images/Banners/epam-office/{F074B563-ED23-48DC-B6EE-41C402AC439A}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Images/Products/{188F61A0-A298-4B6C-B69F-BA040AC6C6D5}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Videos/{063872B8-6F32-42C7-8A62-A10BCAB9556E}/invariant/0</x-item>
+        <x-item>/master/sitecore/media library/Module3/Videos/test2/{BD1938E4-9473-4CD1-8BDD-DB387DF5C1F4}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/{53936432-9572-4837-A54F-96B85F8B2739}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Base/{11BB8AA5-FE2A-47DE-82CE-085EA48162DA}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Base/Base Page/__Standard Values/{79ADEA2C-B56C-4DC4-BC2B-8AD9AF39F0A6}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Base/Base Page/{52294494-F3EF-497E-848F-22B3C54435C1}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Base/Base Page/Navigation/{B13E549E-F3A1-4B7C-BACB-09E93C17F5DD}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Base/Base Page/Navigation/Navigation Title/{447B6E73-35CB-4A24-870B-1624B88005F6}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/{BA75F0F5-7C16-4864-A63F-34319EEEB2D4}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/Folders/{E3768672-3686-4AF2-93AE-E287961A2CDD}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/Folders/Tags Folder/__Standard Values/{D72A3545-7236-4A82-AFF0-AC365E812A8D}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/Folders/Tags Folder/{4B5124AA-2FDA-4E8C-B66B-ED1B9C9016E9}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/Objects/{8876103E-91D4-411C-8DA5-844532133AF1}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/Objects/Tag/__Standard Values/{6CD182D5-9F09-4C33-A5DF-3E5BDF244EB5}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/Objects/Tag/{00884717-5523-4773-8D4B-3B24DA59511B}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/Objects/Tag/Data/{3F99B18E-65E3-46CD-A559-50B4F2E72512}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Local Storage/Objects/Tag/Data/Title/{09A72EF1-6608-4869-A64F-17024C4E2301}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/{E50373C8-541E-4428-8462-8C6137EF8290}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Catalog Page/__Standard Values/{0B78D28C-27D9-4E9A-A149-FEC52CB466F4}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Catalog Page/{E5413CBD-34B3-4BFD-82EB-0D845E981631}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/__Standard Values/{F43F9DF5-BC5C-4D2B-9083-270427FCDE48}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/{6670A5F5-9C48-4957-B630-2648909B1FC1}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Link Types/{BCD7C4CC-CE7B-440E-B63B-8747F19FFB6C}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Link Types/Droplink/{4EA52280-E7FB-4E8D-B883-7B3E6FCA8AAA}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Link Types/Droptree/{89D5A0A1-10DF-47C4-ACA0-5BFA0E23343D}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Link Types/General Link/{A4688BE6-7950-4AAE-942D-06B4A3BB49B3}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/List Types/{42F2D3CC-E467-453B-B2A3-5B6FA759AB10}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/List Types/Droplist/{94FA7E33-AC25-46A7-9ECA-92F071A5DB39}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/List Types/Multilist/{B1076FC5-7F34-431F-AE61-43F6B0627E51}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/List Types/Treelist/{44ACB7BB-0C39-4F88-AE86-D29C42EA0131}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Simple Types/{674BDD9A-7AAF-45B3-A13A-773F2CB3D84D}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Simple Types/Checkbox/{2F6C48FD-21F0-4E88-B9CD-34698EB92E20}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Simple Types/Multi-Line Text/{F8F68031-F736-4025-9D0C-8678D76D2407}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Simple Types/Rich Text/{F5080200-DBCE-4EF0-943B-E1DD3B6ACBC5}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Field Types Demo Page/Simple Types/Single-Line Text/{6AF39FEE-8E4A-4F8F-AC35-7D479119AB37}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Home Page/__Standard Values/{A466A2F5-B63E-4B48-9C0C-FB84EE95C267}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Home Page/{159C9F02-277A-4B26-904B-49C9683F5D89}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Home Page/Data/{9901371E-BBC9-4CF7-AD52-5C618A39FA8F}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Home Page/Data/Text/{E4F9B1DF-D399-4C47-B0A7-021F96BA70E8}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Home Page/Data/Title/{419B25FB-AA24-43A7-AA13-83397DCA322F}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Media Demo Page/__Standard Values/{469FFD82-38A6-4208-8965-8B1D7CEFB7A3}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Media Demo Page/{527952CC-CA93-4A71-ADEE-979621BE07AF}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Media Demo Page/Data/{7DE83757-DB6E-4CA4-BA90-48556E9CBA4D}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Media Demo Page/Data/Image/{29DE6150-83B9-4322-833A-75E24EA734FD}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Product Page/__Standard Values/{EFD32A0A-99BC-4241-8C19-4C1AAD8F854B}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Product Page/{A0E1C996-91E5-4397-8866-D23245EA9115}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Product Page/Product/{BE33BA00-FB72-4858-90FD-7BA1C8C8A0F9}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Product Page/Product/Product Description/{D4EBC995-76A4-40C4-BE5C-6C81D0751996}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Product Page/Product/Product Released/{BEB3A330-E1BB-4E5D-A834-64B134BC152F}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Product Page/Product/Product Tags/{86967278-BDB4-45FA-B6FB-3AD33EA18C1B}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Product Page/Product/Product Title/{401BFA2F-567E-44F6-B1F2-0DB624BC9343}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Search Page/__Standard Values/{86AD9738-3C27-41B4-8953-31832B7CBD91}/invariant/0</x-item>
+        <x-item>/master/sitecore/templates/Module3/Pages/Search Page/{BAF414CF-D9C7-497A-A4C3-6EB694C2A1E8}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Module 3 - Search - Package</Name>
+    </xitems>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>
