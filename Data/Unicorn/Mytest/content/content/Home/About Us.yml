@@ -1,0 +1,48 @@
+﻿---
+ID: "0db5ae56-f011-49c6-b120-6bc94a823a9f"
+Parent: "8565dfb4-799f-488d-be20-c29cb8965a80"
+Template: "76036f5e-cbce-46d1-af0a-4143f9b557aa"
+Path: /sitecore/content/Home/About Us
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+- ID: "b0a67b2a-8b07-4e0b-8809-69f751709806"
+  Hint: __Tracking
+  Type: Tracking
+  Value: |
+    <tracking>
+      <event
+        id="{9A479F46-5662-45F5-A942-206D4710512D}"
+        name="About Us Visited" />
+      <profile
+        id="{C3C66630-5B3B-4D38-9118-E8D0FE147154}"
+        name="Getting information"
+        presets="john|100||">
+        <key
+          name="By Reading"
+          value="1" />
+        <key
+          name="By  Speaking"
+          value="8" />
+      </profile>
+    </tracking>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180208T114913Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCA998C5-0CC3-4F91-94D8-0A4E6CAECE88}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "75577384-3c97-45da-a847-81b00500e250"
+      Hint: Title
+      Value: About Us
